@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # Video Editing Platform (Frontend)
 
+# here i m sharing video link
+https://drive.google.com/file/d/1yk3Q-10y883DWkyoyHSRIlEcJqv9PrST/view?usp=sharing
+
 A browser-based video editing tool built with Next.js, React, and Redux Toolkit.
 
 ![App Screenshot](/public/screenshot.png)

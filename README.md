@@ -1,5 +1,44 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Video Editing Platform (Frontend)
+
+A browser-based video editing tool built with Next.js, React, and Redux Toolkit.
+
+![App Screenshot](/public/screenshot.png)
+
+## Features
+
+- Upload custom videos via drag-and-drop
+- Rearrange video scenes in timeline
+- Add and manage audio tracks
+- Insert subtitles with customizable styling
+- Add image overlays with positioning controls
+- Real-time video preview
+- Mock video rendering and export
+
+## Tech Stack
+
+- **Framework**: Next.js (App Router)
+- **UI**: React + Tailwind CSS
+- **Component Library**: ShadCN UI
+- **State Management**: Redux Toolkit
+- **Video Handling**: React Player
+- **Drag & Drop**: React DnD
+- **File Uploads**: React Dropzone
+
+### Prerequisites
+
+- Node.js v18+
+- npm v9+ or yarn
+- Git
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/video-editor.git
+   cd video-editor
+
 ## Getting Started
 
 First, run the development server:
@@ -13,6 +52,7 @@ pnpm dev
 # or
 bun dev
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
